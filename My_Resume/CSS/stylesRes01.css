@@ -1,0 +1,228 @@
+body {
+  font-family: Montserrat;
+  background-color: #e5e5e5;
+}
+.com3name {
+  font-size: 0.8em;
+  font-weight: 44em;
+  color: #f80606;
+}
+.main_C {
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 2.5em auto;
+  box-shadow: 0.3em 0.3em 1.25em rgba(0, 0, 0, 0.1);
+}
+.all_right_text {
+  margin: 6.25em 5.6em 6.25em 5.6em;
+}
+.radiocolor {
+  color: #fb6d3a;
+}
+.my_name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2.8em;
+  line-height: 3.4em;
+  color: #000;
+}
+
+.about_me_section {
+  margin: 0 0 2.5em 0;
+}
+
+.my_description {
+  width: 25em;
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+}
+.projects_experience_education {
+  font-size: 1.38em;
+  font-style: normal;
+  font-weight: 44em;
+  line-height: 1.7em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000;
+  margin: 0 0 0.7em 0;
+}
+
+.my_projekts_section {
+  margin: 0 0 3.12em 0;
+}
+
+.my_projekts_list {
+  padding: 0 0 0 1em;
+}
+.my_projekts_list_black {
+  color: #000;
+}
+.my_projekts_list_gray {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #595959;
+}
+.Master {
+  color: #595959;
+  font-size: 0.87em;
+}
+.brackets_black {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 0.87em;
+  line-height: 1.5em;
+  color: #000;
+}
+.orange_text {
+  color: #fb6d3a;
+}
+
+.my_experience {
+  margin: 0 0 1em 0;
+}
+.my_education {
+  margin: 0 0 1em 0;
+}
+
+/* sidebar */
+.sidebar {
+  background-color: #1e2939;
+  width: 23.1em;
+  padding: 2.5em 0;
+}
+
+.contacts {
+  margin: 3.1em 0 0 2.5em;
+}
+
+.teh_skills {
+  margin: 3.1em 0 0 2.5em;
+}
+
+.soft_skills {
+  margin: 3.1em 0 0 2.5em;
+}
+
+.sidebar_title {
+  font-size: 1.38em;
+  font-style: normal;
+  font-weight: 43.8em;
+  line-height: 1.7em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+  margin-bottom: 0.6em;
+}
+
+/* contact links */
+.contact_phone {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #8e949c;
+}
+
+.contakt_mail {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #8e949c;
+}
+
+.links1 {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #8e949c;
+}
+
+.contact_phone_mail {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 43.7em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+
+.teh_skills_least {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+.teh_skills_precolor {
+  color: #fb6d3a;
+}
+.teh_skills_text {
+  color: #fff;
+}
+
+.soft_skills_least {
+  font-size: 0.87em;
+  font-style: normal;
+  font-weight: 25em;
+  line-height: 1.5em;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+.soft_skills_precolor {
+  color: #fb6d3a;
+}
+.soft_skills_text {
+  color: #fff;
+}
+
+.com3_2_1name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 1.25em;
+  margin: 0 0 0.62em 0;
+  color: #000;
+}
+.period_of_work {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 0.9em;
+  margin: 0 0 0.62em 0;
+  color: #a8a8a8;
+}
+
+.brackets_vertical_black {
+  color: #000;
+}
+.experience_manager {
+  padding: 0 0 0 1em;
+}
+.manager_com3_2_1 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.87em;
+  line-height: 1.5em;
+  color: #595959;
+}
